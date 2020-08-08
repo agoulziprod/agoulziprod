@@ -2,6 +2,12 @@
 🍏tsfa7🍎
 
 
+[I make drawing videos on youtube](https://www.youtube.com/channel/UC3KZfYHqufKyWvDyKq8kqWA)
+
+[I share art on instagram](https://www.instagram.com/agoulziprod/)
+
+[I share art on Behance](https://www.behance.net/agoulziprod)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=agoulziprod&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoulziprod&hide=TeX&layout=compact)
