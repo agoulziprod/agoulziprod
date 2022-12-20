@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [vector.ma](https://vector.ma) The moroccan plateform for vector logos and illustrations 
+- 🔭 Working on [vector.ma](https://vector.ma) The moroccan plateform for vector logos and illustrations 
 
-- 🌱 I’m currently learning Typescript & javascript technologies ...
+- 🌱 Learning Typescript & javascript technologies ...
 
-- 👯 I’m looking for angular devloppers to collaborate on vector.ma
+- 👯 Looking for angular developers to collaborate on vector.ma
 
 - 💬 Ask me about Design and Dev ...
 
@@ -18,9 +18,6 @@
 [Behance](https://www.behance.net/agoulziprod)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoulziprod&hide=TeX&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoulziprod&hide=TeX&layout=compact)
-
 
 <!--
 **agoulziprod/agoulziprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
