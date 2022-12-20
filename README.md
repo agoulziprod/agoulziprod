@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-- 🔭 Working on [vector.ma](https://vector.ma) The moroccan plateform for vector logos and illustrations 
+- 🔭 I’m currently working on [vector.ma](https://vector.ma) The moroccan plateform for vector logos and illustrations 
 
-- 🌱 Learning Typescript & javascript technologies ...
+- 🌱 I’m currently learning Typescript & javascript technologies ...
 
-- 👯 Looking for angular devloppers to collaborate on vector.ma
+- 👯 I’m looking for angular devloppers to collaborate on vector.ma
 
 - 💬 Ask me about Design and Dev ...
 
-- 📫 How to reach me: linkedin o ktb lia cordialement flkher dial lmessage ...
+- 📫 How to reach me: Linkedin o ktb lia cordialement flkher dial lmessage ...
 
 ### Follow me on :
 
-[youtube](https://www.youtube.com/channel/UC3KZfYHqufKyWvDyKq8kqWA) 
-[Instagram](https://www.instagram.com/agoulziprod/) 
+[Linkedin](https://www.linkedin.com/in/agoulziprod) -
+[Youtube](https://www.youtube.com/channel/UC3KZfYHqufKyWvDyKq8kqWA) -
+[Instagram](https://www.instagram.com/agoulziprod/) -
 [Behance](https://www.behance.net/agoulziprod)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoulziprod&hide=TeX&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoulziprod&hide=TeX&layout=compact)
 
