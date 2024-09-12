@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Design and Dev ...
 
-- 📫 How to reach me: Linkedin o ktb lia cordialement flkher dial lmessage ...
+- 📫 How to reach me: Linkedin
 
 ### Follow me on :
 
